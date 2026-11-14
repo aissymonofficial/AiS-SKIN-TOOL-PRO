@@ -1,3 +1,4 @@
+
 {
   "title": "Device Activation",
   "subtitle": "Enter your device activation key to unlock full access and continue.",
@@ -5,152 +6,41 @@
   "hint": "Enter your key here...",
   "infoText": "Your key is a unique code provided by the admin. Make sure you enter it correctly.",
   "notice": "",
-  "telegram": "https://t.me/aisofficialbd",
-  "admin": "https://t.me/AiS_SYMON_OFFICIAL",
-  "brand": "AiS SYMON",
+  "telegram": "https://t.me/YourChannel",
+  "admin": "https://t.me/YourUsername",
+  "brand": "SagarTech99",
   "brandTag": "Better Tools • Better Experience",
   "allowDeviceKey": true,
-  
-  "deviceList": [
-    {
-      "deviceId": "1096-BCA2-51F2-89B1",
-      "key": "SGR-1A2B-3C4D-5E6F-7A8B",
-      "active": true,
-      "hour": 12,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-002",
-      "key": "SGR-2B3C-4D5E-6F7G-8H9I",
-      "active": true,
-      "hour": false,
-      "day": 30
-    },
-    {
-      "deviceId": "DEVICE-ID-003",
-      "key": "SGR-3C4D-5E6F-7G8H-9I0J",
-      "active": true,
-      "hour": 6,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-004",
-      "key": "SGR-4D5E-6F7G-8H9I-0J1K",
-      "active": true,
-      "hour": 1,
-      "day": 7
-    },
-    {
-      "deviceId": "DEVICE-ID-005",
-      "key": "SGR-5E6F-7G8H-9I0J-1K2L",
-      "active": true,
-      "hour": false,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-006",
-      "key": "SGR-6F7G-8H9I-0J1K-2L3M",
-      "active": true,
-      "hour": 24,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-007",
-      "key": "SGR-7G8H-9I0J-1K2L-3M4N",
-      "active": true,
-      "hour": false,
-      "day": 1
-    },
-    {
-      "deviceId": "DEVICE-ID-008",
-      "key": "SGR-8H9I-0J1K-2L3M-4N5O",
-      "active": true,
-      "hour": 5,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-009",
-      "key": "SGR-9I0J-1K2L-3M4N-5O6P",
-      "active": true,
-      "hour": false,
-      "day": 15
-    },
-    {
-      "deviceId": "DEVICE-ID-010",
-      "key": "SGR-0J1K-2L3M-4N5O-6P7Q",
-      "active": true,
-      "hour": 2,
-      "day": 3
-    },
-    {
-      "deviceId": "DEVICE-ID-011",
-      "key": "SGR-1K2L-3M4N-5O6P-7Q8R",
-      "active": true,
-      "hour": 1,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-012",
-      "key": "SGR-2L3M-4N5O-6P7Q-8R9S",
-      "active": true,
-      "hour": false,
-      "day": 7
-    },
-    {
-      "deviceId": "DEVICE-ID-013",
-      "key": "SGR-3M4N-5O6P-7Q8R-9S0T",
-      "active": true,
-      "hour": 48,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-014",
-      "key": "SGR-4N5O-6P7Q-8R9S-0T1U",
-      "active": true,
-      "hour": false,
-      "day": 365
-    },
-    {
-      "deviceId": "DEVICE-ID-015",
-      "key": "SGR-5O6P-7Q8R-9S0T-1U2V",
-      "active": true,
-      "hour": 3,
-      "day": 10
-    },
-    {
-      "deviceId": "DEVICE-ID-016",
-      "key": "SGR-6P7Q-8R9S-0T1U-2V3W",
-      "active": true,
-      "hour": false,
-      "day": 60
-    },
-    {
-      "deviceId": "DEVICE-ID-017",
-      "key": "SGR-7Q8R-9S0T-1U2V-3W4X",
-      "active": true,
-      "hour": 10,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-018",
-      "key": "SGR-8R9S-0T1U-2V3W-4X5Y",
-      "active": true,
-      "hour": false,
-      "day": 90
-    },
-    {
-      "deviceId": "DEVICE-ID-019",
-      "key": "SGR-9S0T-1U2V-3W4X-5Y6Z",
-      "active": true,
-      "hour": 18,
-      "day": false
-    },
-    {
-      "deviceId": "DEVICE-ID-020",
-      "key": "SGR-0T1U-2V3W-4X5Y-6Z7A",
-      "active": true,
-      "hour": false,
-      "day": 180
-    }
+  "keys": [
+    "SGR-1A2B-3C4D-5E6F-7A8B",
+    "1096-BCA2-51F2-89B1",
+    "Enter_user_device_id_03",
+    "Enter_user_device_id_04",
+    "Enter_user_device_id_05",
+    "Enter_user_device_id_06",
+    "Enter_user_device_id_07",
+    "Enter_user_device_id_08",
+    "Enter_user_device_id_09",
+    "Enter_user_device_id_10",
+    "Enter_user_device_id_11",
+    "Enter_user_device_id_12",
+    "Enter_user_device_id_13",
+    "Enter_user_device_id_14",
+    "Enter_user_device_id_15",
+    "Enter_user_device_id_16",
+    "Enter_user_device_id_17",
+    "Enter_user_device_id_18",
+    "Enter_user_device_id_19",
+    "Enter_user_device_id_20",
+    "Enter_user_device_id_21",
+    "Enter_user_device_id_22",
+    "Enter_user_device_id_23",
+    "Enter_user_device_id_24",
+    "Enter_user_device_id_25",
+    "Enter_user_device_id_26",
+    "Enter_user_device_id_27",
+    "Enter_user_device_id_28",
+    "Enter_user_device_id_29",
+    "Enter_user_device_id_30"
   ]
 }
